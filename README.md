@@ -3,6 +3,10 @@
 * What makes your project special and exciting.
 * How to get started.
 * Where to find key resources.
+**Guide to write a good readme tab**
+[README guide][link_readme]
+
+
 
 # Copia di una Repository fatta bene
 ***Inspire future generations by providing the most exciting and diverse speakers for your conference.***
@@ -127,3 +131,4 @@ Thank you so much (Danke schön! Merci beaucoup!) for visiting the project and w
 [link_researchfox]: http://mozillascience.github.io/working-open-workshop/assets/images/science-fox.svg
 [link_leancanvas]: https://app.leanstack.com/canvases/p/2e4a5016-7fb5-4c77-b1cf-ed65518b7603
 [link_impostersyndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
+[link_readme]: https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme
