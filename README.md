@@ -1,4 +1,8 @@
 # Trial-Repo
+* What you are doing, for whom, and why.
+* What makes your project special and exciting.
+* How to get started.
+* Where to find key resources.
 
 # Copia di una Repository fatta bene
 ***Inspire future generations by providing the most exciting and diverse speakers for your conference.***
